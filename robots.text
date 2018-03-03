@@ -1,0 +1,10 @@
+User-agent: * Allow: /
+Allow: /archives/
+Disallow: /vendors/
+Disallow: /js/
+Disallow: /css/
+Disallow: /fonts/
+Disallow: /vendors/
+Disallow: /fancybox/
+Sitemap: https://harryzgh.github.io/sitemap.xml
+Sitemap: https://harryzgh.github.io/baidusitemap.xml
